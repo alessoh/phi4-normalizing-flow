@@ -1,0 +1,16 @@
+# requirements.txt
+
+# Core dependencies
+torch>=1.10.0
+numpy>=1.20.0
+matplotlib>=3.4.0
+
+# Optional: for faster training
+# Uncomment if you have a CUDA-capable GPU
+# torch with CUDA can be installed via:
+# pip install torch --index-url https://download.pytorch.org/whl/cu118
+
+# Development dependencies (optional)
+# pytest>=6.0.0
+# black>=21.0
+# flake8>=3.9.0
